@@ -6,7 +6,7 @@ import smtplib
 
 
 from_addr = "1090384046@qq.com"
-password = "vzoyxkwxzcunhjhj"
+password = ""
 # to_addr = "1090384046@qq.com"
 smtp_server = 'smtp.qq.com'
 smtp_port = 25
